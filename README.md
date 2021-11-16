@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nihal-mistry
-- 👀 I’m interested in Java/Android
+- 👀 I’m interested in Java/Kotlin/Android
 - 🌱 I’m currently learning Spring Boot Microservices
 - 💞️ I’m looking to collaborate on Android
 
